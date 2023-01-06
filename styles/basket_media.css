@@ -1,0 +1,66 @@
+/* HEAD */
+
+header {
+    height: 100px;
+}
+
+.basket_heading1 {
+    font-size: 18px;
+    line-height: 20px;
+    padding: 0 0 0 60px;
+}
+
+.basket_heading2 {
+    font-size: 10px;
+    line-height: 30px;
+    padding: 0 0 0 60px;
+}
+
+.backet_main {
+    font-size: 10px;
+}
+
+.section_basket_appellation_heading {
+    font-size: 8px;
+}
+
+/* ADDITIONALLY */
+
+.section_basket_main_food_and_additionally {
+    width: 50%;
+}
+
+.delete-btn {
+    padding: 4px 5px;
+    font-size: 10px;
+}
+
+.section_basket_one_stroke {
+    padding: 15px 10px;
+}
+
+.section_basket_one_stroke .section_basket_product-image img {
+    width: 25px;
+    height: 25px;
+}
+
+.section_basket_product-title {
+    font-size: 10px;
+}
+
+.section_basket_product-attribute {
+    font-size: 10px;
+}
+
+.section_basket_one_stroke .section_basket_price {
+    font-size: 8px;
+}
+
+.section_basket_one_stroke .count_basket_button img {
+    width: 10px;
+}
+
+.section_basket_one_stroke .count_input {
+    padding: 5px 0px;
+    font-size: 10px;
+}

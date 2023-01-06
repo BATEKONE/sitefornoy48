@@ -1,0 +1,178 @@
+/* SHORT MENU */
+
+.section_short_menu_heading{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    padding: 45px 0 18px 35px;
+}
+
+.short_menu{
+    height: 300px;
+}
+
+.section_short_menu_hand_and_menu{
+    padding: 0 0 0 25px;
+}
+
+.section_short_menu_hand{
+    width: 45px;
+    height: 25px;
+}
+
+.short_menu_link{
+    font-size: 15px;
+    line-height: 28px;
+    padding: 7px 12px;
+}
+
+/* MENU */
+
+.main_menu_other_list{
+    max-width: 220px;
+}
+
+/* GIF */
+
+.main-animated-car {
+    width: 50%;
+}
+
+.main_menu_other_list:last-child {
+    padding: 0 15px 0px 15px;
+}
+
+/* DELIVERY */
+
+.delivery_big_heading1{
+    font-size: 30px;
+}
+
+.delivery_big_heading_link{
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.delivery_big_heading_link span{
+    font-size: 20px;
+}
+
+.delivery_big_heading_chart1{
+    font-size: 18px;
+    line-height: 28px;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.delivery_big_heading_call{
+    width: 30px;
+    height: 21px;
+}
+
+.delivery_big_heading_call_and_number{
+    padding: 15px 0 16px 0;
+}
+
+.delivery_big_heading_chart2{
+    -webkit-text-stroke: 0.5px black;
+}
+
+/* BIG_MENU */
+
+.big_menu_four {
+    padding: 10px 5px 30px 5px;
+    max-width: 800px;
+}
+
+.big_menu_img{
+    width: 180px;
+    height: 160px;
+}
+
+.big_menu_block{
+    width: 50%;
+    justify-content: center;
+    padding: 30px 0 30px 0;
+    box-sizing: border-box;
+}
+
+.big_menu_block:last-child{
+    padding: 30px 0 0px 0;
+}
+
+.big_menu_heading1{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.big_menu_heading2{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.big_menu_heading3 {
+    font-weight: 500;
+    font-size: 18px;
+    width: 55%;
+}
+
+.big_menu_button {
+    font-weight: 500;
+    font-size: 18px;
+    padding: 10px 26px;
+    width: 15%;
+    margin: 20px auto;
+}
+
+.product-price {
+    width: 89%;
+}
+
+.product-price-attr_name {
+    color: #aaaaaa;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.big_menu_txt{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #7f7f7f;
+}
+
+.not_position{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 0%;
+    text-align: center;
+    margin-top: 25px;
+
+    color: #7f7f7f;
+}
+
+.add_to_cart_cart {
+    padding: 7px 10px;
+    width: 40px;
+    margin: 0;
+}
+
+.big_menu_button.load_more, .big_menu_button.load_more_cat {
+    width: 100%;
+    max-width: 270px;
+    margin-bottom: 20px;
+}
+
+.added-to-cart {
+    padding: 12px 24px;
+    font-size: 16px;
+    width: 70%;
+    text-align: center;
+}

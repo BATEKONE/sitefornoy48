@@ -1,0 +1,11 @@
+@media (max-width: 1400px) {
+    .menu > ul > li > a span {
+        display: none;
+    }
+    .menu {
+        width: auto;
+    }
+    .admin-table {
+        font-size: 12px;
+    }
+}
